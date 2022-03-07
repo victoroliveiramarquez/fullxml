@@ -1,0 +1,19 @@
+ p {
+    	display: block;
+    	color: blue;
+        }
+
+    h2 {
+	margin-left: 20px;	
+	}
+
+    span {
+	color: blue;
+	background-color: yellow;
+	font-weight: bold;
+	}
+
+    ul {
+	color: blue;
+
+	}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Libros.xsl"?>
+<?xml-stylesheet href="Libros.css"?>
+<libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///E:/Libros/Libros.xsd">
+	<libro>
+		<obra>Everyday Italian</obra>
+		<fechaPublicacion>2005</fechaPublicacion>
+		<precio>29.99</precio>
+	</libro>
+	<libro>
+		<obra>Harry Potter</obra>
+		<fechaPublicacion>2005</fechaPublicacion>
+		<precio>29.99</precio>
+	</libro>
+	<libro>
+		<obra>XQuery Kick Start</obra>
+		<fechaPublicacion>2003</fechaPublicacion>
+		<precio>49.99</precio>
+	</libro>
+	<libro>
+		<obra>Learning XML (en)</obra>
+		<fechaPublicacion>2003</fechaPublicacion>
+		<precio>39.95</precio>
+	</libro>
+</libros>
